@@ -1,2 +1,5 @@
 # sentiment-analysis
-DLND - Sentiment Analysis using Neural Network
+DLND - Sentiment Analysis on imdb database
+       Neural Networks
+       Neural Networs in TFlearn
+       Recurrent Neural Networs
